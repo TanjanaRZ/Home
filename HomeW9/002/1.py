@@ -2,7 +2,7 @@ import calc
 import telebot
 import log
 
-bot = telebot.TeleBot('5512819290:AAGN6VPNlTKmYHWukGXoP0LSZAwB4MmQxD8')
+bot = telebot.TeleBot('   ')
 
 @bot.message_handler(commands=["start"])
 def start(m, res=False):
